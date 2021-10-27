@@ -5,6 +5,8 @@ You are provided with historical sales data for 45 stores located in different r
 ### Problem description:
 One challenge of modeling retail data is the need to make decisions based on limited history. Holidays and select major events come once a year, and so does the chance to see how strategic decisions impacted the bottom line. In addition, markdowns are known to affect sales the challenge is to predict which departments will be affected and to what extent.
 
+![shopping-cart-is-seen-in-a-target-store-on-december-19-2013-news-photo-1604076313_](https://user-images.githubusercontent.com/88396377/139004656-2f3e8721-87a3-488e-bff2-ab8c1cb04eb0.jpeg)
+
 ### Recommended Project Steps & Guidelines:
 1. Understand the data variables properly. Check the variable description to understand the data properly.
 2. Clean the data: Clean the data, that is, fill the missing values (if any), treat the outliers (or odd values), etc. Ensure each variable’s data is as per the nature of the variable (e.g. – Date field should contain only date values – can extract year, month and day of the week, and numeric column should be formatted as numeric, etc.).
