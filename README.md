@@ -23,8 +23,7 @@ One challenge of modeling retail data is the need to make decisions based on lim
 ## Variable Description
 Over here we have 3 Excel Sheet, named as Store_Details, Business_Data and Sales_History.
 ### Store_Details: Anonymized information about 45 stores indicating store type, Address, Location and size of store.
-### Business_Data:
-Contains additional data related to the store, department, and regional activity for the given dates.
+### Business_Data: Contains additional data related to the store, department, and regional activity for the given dates.
 * Store - the store number
 * Date - the week
 * Temperature - Average temperature of surrounding region of store location.
