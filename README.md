@@ -20,7 +20,7 @@ One challenge of modeling retail data is the need to make decisions based on lim
 10. Improving model accuracy: We know that machine learning algorithms are driven by parameters. These parameters majorly influence the outcome of learning process. So, find the optimum value for each parameter to improve the accuracy of the model and repeat this process with a number of well performing models.
 11. Model Comparison: Comparing the each model with other similar models and then choose that model which give highest accuracy. But it is not necessary that higher accuracy models always perform better (for unseen data points). So, find the right accuracy of the model, you must use cross validation technique before finalizing the model.
 
-## Variable Description
+## Variable Description 
 Over here we have 3 Excel Sheet, named as Store_Details, Business_Data and Sales_History.
 ### Store_Details: Anonymized information about 45 stores indicating store type, Address, Location and size of store.
 ### Business_Data: Contains additional data related to the store, department, and regional activity for the given dates.
